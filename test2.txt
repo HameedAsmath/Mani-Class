@@ -1,6 +1,3 @@
 Hello Mani bro 
-<<<<<<< HEAD
 Hello Mani
-=======
-Hello Hameed
->>>>>>> hameed
+
